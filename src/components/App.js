@@ -5,7 +5,6 @@ import user from './profile/user.json';
 const App = () =>(
     <div>
         <Profile user={user}/>
-        {/* <Profile/> */}
     </div>
 );
 

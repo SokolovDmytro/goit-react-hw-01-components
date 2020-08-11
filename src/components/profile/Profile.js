@@ -29,4 +29,6 @@ const Profile = ({ user: {name, location, tag, avatar, stats:{followers, views, 
     );
   };
 
+  
+
   export default Profile;
